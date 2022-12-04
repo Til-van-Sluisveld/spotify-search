@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Overview from "../components/Overview.vue";
+import TodoItemsOverview from "../components/TodoItemsOverview.vue";
 </script>
 
 <template>
   <main>
-    <Overview />
+    <TodoItemsOverview />
   </main>
 </template>
